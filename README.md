@@ -27,7 +27,7 @@ To understand customer churn through descriptive dashboard analytics and build a
 * **Power BI** – For building multi-page interactive dashboards
 * **ODBC** – Used for live SQL Server–Power BI connectivity
 
-👉 Scripts and datasets are included in the `scripts/`, `notebook/`, and `data/` folders.
+👉 Scripts and datasets are included in the [scripts/](scripts/), [notebook/](notebook/), and [data](data/)` folders.
 
 ---
 
