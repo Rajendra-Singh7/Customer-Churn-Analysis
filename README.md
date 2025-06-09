@@ -30,6 +30,15 @@ To understand customer churn through descriptive dashboard analytics and build a
 👉 SQL Scripts and datasets are included in the [queries/](queries/), [notebook/](notebook/), and [data](data/) folders.
 
 ---
+## 📊 Dashboard Snapshots
+<p align="center">
+  <img src="./dashboard ss/summary dashboard ss.png" width="700" alt="Summary Dashboard">
+  <br><i>Dashboard 1: Summary Overview</i>
+</p>
+<p align="center">
+  <img src="./dashboard ss/churn prediction dashboard ss.png" width="700" alt="Summary Dashboard">
+  <br><i>Dashboard 2: Churn Prediction Dashboard</i>
+</p>
 
 ## 📊 Dashboard Structure
 
